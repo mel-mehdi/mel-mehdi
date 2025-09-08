@@ -81,7 +81,7 @@ const developer = {
 ## 🎯 Current Goals
 
 - 🌱 Learning **Rust** and **WebAssembly**
-- 🔭 Working on **[Your Current Project]**
+- 🔭 Working on **ft_transcendence**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🎪 Building something **amazing** every day
 
