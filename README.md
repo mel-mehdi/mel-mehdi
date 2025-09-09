@@ -85,16 +85,6 @@ const developer = {
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🎪 Building something **amazing** every day
 
-## 📊 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░   48.2%
-Python       6 hrs 15 mins   ██████░░░░░░░░░░░   24.1%
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░   16.7%
-CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░   8.4%
-HTML         40 mins         █░░░░░░░░░░░░░░░░   2.6%
-```
-
 ## 🌐 Connect With Me
 
 <div align="center">
