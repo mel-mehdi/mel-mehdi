@@ -79,18 +79,3 @@ const developer = {
   
   ⭐️ From [mel-mehdi](https://github.com/mel-mehdi)
 </div>
-
-## 🐍 Contribution Snake Game
-<div align="center">
-  <i>Watch the snake eat my contributions!</i><br/>
-  <sub>Updated automatically every 12 hours via GitHub Actions</sub>
-</div>
-
-<!-- Snake Game Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mel-mehdi/README/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mel-mehdi/README/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mel-mehdi/README/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
