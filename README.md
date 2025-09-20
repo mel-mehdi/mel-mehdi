@@ -53,6 +53,7 @@ const developer = {
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mel-mehdi&repo=watch_together&theme=tokyonight&hide_border=true)](https://github.com/mel-mehdi/watch_together)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mel-mehdi&repo=inception&theme=tokyonight&hide_border=true)](https://github.com/mel-mehdi/inception)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mel-mehdi&repo=CPP&theme=tokyonight&hide_border=true)](https://github.com/mel-mehdi/CPP)
 
 </div>
 
